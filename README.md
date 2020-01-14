@@ -7,27 +7,9 @@ CG.DEV 是胡宁（陶仁贤）为国内 CG 行业朋友们准备的大礼，在
 
 本站主要内容还在施工中，主要分成四大模块，技能树，文档中心，视频清单，工程仓库
 
-# Header 1
-## Header 2
-### Header 3
+# 技能树施工中
+# 文档中心施工中
+# 视频清单施工中
+# 工程仓库施工中
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aboutdept/aboutdept.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
