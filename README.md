@@ -1,6 +1,6 @@
-## Welcome to CG.DEV
+## 欢迎来到 CG.DEV
 
-You can use the [editor on GitHub](https://github.com/Aboutdept/aboutdept.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+CG.DEV 是胡宁（陶仁贤）为国内 CG 行业朋友们准备的大礼，在这里汇集了世界范围内基于虚幻引擎各应用领域上的文档，教学视频以及免费工程项目。 并由从业超过 10 年的资深人士为学习者规划的技能树，帮你成就美术，程序，TA，策划等道路技能点。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
